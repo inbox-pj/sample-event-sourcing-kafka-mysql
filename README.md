@@ -1,2 +1,1 @@
-# sample-event-sourcing-kafka-mysql
-Event sourced to kafka along with mysql
+Swagger UI:	http://localhost:8100/swagger-ui.html
